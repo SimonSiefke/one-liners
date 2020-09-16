@@ -28,5 +28,11 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 ### VSCode
 
 ```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.vscode/install.sh | sh
+```
 
+### VSCode Insiders
+
+```
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.vscode-insiders/install.sh | sh
 ```
