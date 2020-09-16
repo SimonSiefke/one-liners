@@ -11,6 +11,12 @@
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/browser.chrome/install.sh | sh
 ```
 
+## Dev
+
+### Git
+
+### Nvm
+
 ## Editors
 
 ### Atom
