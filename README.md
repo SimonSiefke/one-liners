@@ -56,5 +56,5 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 ### Fira Code
 
 ```sh
-TODO
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/font.firacode/install.sh | sh
 ```
