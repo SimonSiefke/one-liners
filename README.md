@@ -5,6 +5,12 @@
 
 ## Browsers
 
+### Brave
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/browser.brave/install.sh | sh
+```
+
 ### Chrome
 
 ```sh
