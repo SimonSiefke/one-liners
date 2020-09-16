@@ -11,6 +11,12 @@
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/browser.chrome/install.sh | sh
 ```
 
+### Chromium
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/browser.chromium/install.sh | sh
+```
+
 ## Dev
 
 ### Git
