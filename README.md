@@ -47,6 +47,14 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ### VSCode Insiders
 
-```
+```sh
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.vscode-insiders/install.sh | sh
+```
+
+## Fonts
+
+### Fira Code
+
+```sh
+TODO
 ```
