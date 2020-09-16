@@ -1,4 +1,4 @@
-# oneliners
+# one-liners
 
 >  install packages 
 
@@ -15,7 +15,15 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ### Git
 
+```sh
+curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.git/install.sh | sh
+```
+
 ### Nvm
+
+```sh
+curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.nvm/install.sh | sh
+```
 
 ## Editors
 
