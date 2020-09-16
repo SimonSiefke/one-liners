@@ -8,7 +8,7 @@
 ### Chrome
 
 ```sh
-wget something.sh | sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/browser.chrome/install.sh | sh
 ```
 
 ## Editors
@@ -16,11 +16,17 @@ wget something.sh | sh
 ### Atom
 
 ```sh
-wget something.sh | sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.atom/install.sh | sh
 ```
 
 ### Brackets
 
 ```sh
-wget something.sh | sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.brackets/install.sh | sh
+```
+
+### VSCode
+
+```sh
+
 ```
