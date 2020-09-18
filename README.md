@@ -1,7 +1,6 @@
 # one-liners
 
->  install packages 
-
+> install packages
 
 ## Browsers
 
@@ -29,6 +28,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ```sh
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.git/install.sh | sh
+```
+
+### kubectl
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.kubectl/install.sh | sh
 ```
 
 ### Nvm
