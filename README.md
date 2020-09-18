@@ -56,6 +56,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.brackets/install.sh | sh
 ```
 
+### Sublime
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/editor.sublime/install.sh | sh
+```
+
 ### VSCode
 
 ```sh
