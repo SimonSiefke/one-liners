@@ -24,6 +24,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ## Dev
 
+### Adb
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.adb/install.sh | sh
+```
+
 ### Git
 
 ```sh
