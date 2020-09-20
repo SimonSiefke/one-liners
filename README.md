@@ -90,6 +90,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ## Tweak
 
+### Preload
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/tweak.preload/install.sh | sh
+```
+
 ### The Fuck
 
 ```sh
