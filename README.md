@@ -87,3 +87,11 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 ```sh
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/font.firacode/install.sh | sh
 ```
+
+## Tweak
+
+### Z
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/tweak.z/install.sh | sh
+```
