@@ -94,6 +94,14 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/font.firacode/install.sh | sh
 ```
 
+## Misc
+
+### Spotify
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/misc.spotify/install.sh | sh
+```
+
 ## Tweak
 
 ### Preload
