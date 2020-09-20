@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo snap install spotify
+sudo snap install -y spotify
 
 
 # Disable notifications
