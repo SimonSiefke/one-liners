@@ -30,6 +30,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.git/install.sh | sh
 ```
 
+### GParted
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/dev.gparted/install.sh | sh
+```
+
 ### kubectl
 
 ```sh
