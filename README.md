@@ -96,6 +96,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ## Misc
 
+### Disk Usage Analyzer
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/misc.disk-usage-analyzer/install.sh | sh
+```
+
 ### Spotify
 
 ```sh
