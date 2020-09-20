@@ -90,6 +90,12 @@ sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packag
 
 ## Tweak
 
+### The Fuck
+
+```sh
+sudo curl https://raw.githubusercontent.com/SimonSiefke/one-liners/master/packages/tweak.thefuck/install.sh | sh
+```
+
 ### Z
 
 ```sh
